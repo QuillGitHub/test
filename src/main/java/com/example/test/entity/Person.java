@@ -9,6 +9,6 @@ public class Person {
 
     private String fullName;
 
-    private int num;
+    private int number;
 
 }
