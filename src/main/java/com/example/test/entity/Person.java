@@ -8,4 +8,6 @@ package com.example.test.entity;
 public class Person {
 
     private String fullName;
+
+    private String sex;
 }
