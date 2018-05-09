@@ -11,6 +11,8 @@ public class Person {
 
     private String sex;
 
-    private int age;
+    private Integer age;
+
+
 }
 
