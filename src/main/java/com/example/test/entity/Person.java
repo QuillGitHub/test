@@ -10,5 +10,7 @@ public class Person {
     private String fullName;
 
     private String sex;
+
+    private int age;
 }
 
