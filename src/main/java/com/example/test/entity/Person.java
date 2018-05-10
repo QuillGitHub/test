@@ -13,8 +13,6 @@ public class Person {
 
     private Integer age;
 
-    private Integer age1;
-
     public String getFullName() {
         return fullName;
     }
