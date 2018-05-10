@@ -11,7 +11,7 @@ public class Person {
 
     private String sex;
 
-
+    private String Number;
 
 }
 
